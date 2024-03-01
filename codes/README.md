@@ -4,4 +4,4 @@ Welcome to the `Session Codes` directory! This space is dedicated to organizing 
 
 ## Sessions
 Recursion, Pointers and Parameter Passing
-- **[Session 1](./Session 1%3A Recursion%2C Pointers and Parameter Passing) (`<session date>`):** `<add session information here>`
+- **[Session 1](https://github.com/Yves242/ptm-for-ngvalentino/tree/main/codes/Session%201%3A%20Recursion%2C%20Pointers%20and%20Parameter%20Passing) (`<session date>`):** `<add session information here>`
