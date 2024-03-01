@@ -17,8 +17,8 @@ find . -type f -name "*.c" -print0 | while IFS= read -r -d '' c_file; do
     # Generate run.sh using the specified file name
     echo "gcc \"${filename}\" -o a.out" > run.sh
     echo "chmod +x a.out" >> run.sh
-    echo "clear"
-    echo ""
+    echo "clear" >> run.sh
+    echo "" >> run.sh
     echo "./a.out" >> run.sh
 
     # Give run.sh permission to run
