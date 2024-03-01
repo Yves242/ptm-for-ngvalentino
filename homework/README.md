@@ -4,7 +4,7 @@ Welcome to the `Session Homeworks` directory! This space is organized into sessi
 
 ## Sessions
 
-- **[Session 1](./Session%201%3A%20%28insert%20topic%20name%29) (`<session date>`): Recursion, Pointers and Parameter Passing** 
+- **[Session 1](./Session%201:%20Recursion%20Pointers%20and%20Parameter%20Passing) (`<session date>`): Recursion, Pointers and Parameter Passing** 
 
 ## Contact
 
