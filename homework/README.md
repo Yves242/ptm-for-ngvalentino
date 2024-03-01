@@ -4,7 +4,7 @@ Welcome to the `Session Homeworks` directory! This space is organized into sessi
 
 ## Sessions
 
-- **[Session 1](https://github.com/Yves242/ptm-for-ngvalentino/tree/main/homework/Session%201%3A%20Recursion%2C%20Pointers%20and%20Parameter%20Passing) (`<session date>`): Recursion, Pointers and Parameter Passing** 
+- **[Session 1](https://github.com/Yves242/ptm-for-ngvalentino/tree/main/homework/Session%201%3A%20Recursion%2C%20Pointers%20and%20Parameter%20Passing) (March 4, 2024): Recursion, Pointers and Parameter Passing** 
 
 ## Contact
 
