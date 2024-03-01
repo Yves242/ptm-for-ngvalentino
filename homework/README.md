@@ -4,7 +4,7 @@ Welcome to the `Session Homeworks` directory! This space is organized into sessi
 
 ## Sessions
 
-- **[Session 1](./Session%201:%20Recursion%20Pointers%20and%20Parameter%20Passing) (`<session date>`): Recursion, Pointers and Parameter Passing** 
+- **[Session 1](./Session 1%3A Recursion%2C Pointers and Parameter Passing) (`<session date>`): Recursion, Pointers and Parameter Passing** 
 
 ## Contact
 
