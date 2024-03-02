@@ -26,17 +26,18 @@ int main() {
     int num, nonrecursive_factorial_result;
 
     // Get the number for which to calculate factorial
-    printf("Enter a number to calculate factorial: ");
+    printf("[non-recursive] \n\nEnter a number to calculate factorial: ");
     scanf("%d", &num);
 
     // factorials not allowed if it is a negative integer. Print error then exit.
     if (num < 0) { printf("Factorial is not allowed for negative numbers.\n"); return 0; }
     
+    
     // at this point, number (if not a string) is a positive or zero integer.
     nonrecursive_factorial_result = nonrecursiveFactorial(num);
 
     // print the result
-    print("The factorial expression '%i!' has a value of %i.\n\n", num, nonrecursive_factorial_result);
+    printf("The factorial expression '%i!' has a value of %i.\n\n", num, nonrecursive_factorial_result);
 
     // exit 
     return 0;

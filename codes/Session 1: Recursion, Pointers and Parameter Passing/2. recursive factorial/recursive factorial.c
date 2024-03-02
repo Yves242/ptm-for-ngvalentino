@@ -21,7 +21,7 @@ int main() {
     int num, recursive_factorial_result;
 
     // Get the number for which to calculate factorial
-    printf("Enter a number to calculate factorial: ");
+    printf("[recursive] \n\nEnter a number to calculate factorial: ");
     scanf("%d", &num);
 
     // factorials not allowed if it is a negative integer. Print error then exit.
@@ -31,7 +31,7 @@ int main() {
     recursive_factorial_result = recursiveFactorial(num);
 
     // print the result
-    print("The factorial expression '%i!' has a value of %i.\n\n", num, recursive_factorial_result);
+    printf("The factorial expression '%i!' has a value of %i.\n\n", num, recursive_factorial_result);
 
     // exit 
     return 0;
