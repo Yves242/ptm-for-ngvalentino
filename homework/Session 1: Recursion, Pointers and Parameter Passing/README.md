@@ -1,12 +1,13 @@
-# `<Sample problem title here>`
+# Recursive Factorial Implementation
 
 ## Problem Statement
 
-`<Sample problem is placed here>`
+Implement your own recursive function in C to calculate the factorial of a given positive integer. The factorial of a number 'n' is the product of all positive integers less than or equal to 'n'. Do not adapt or use the code provided in the `recursive factorial.c` file.
 
 ## Specifications/Requirements
 
-`<Add additional specifications or requirements here>`
+- Create a C program that includes a <b>recursive function</b> for calculating factorial.
+- You are required to use <b>pass-by-reference parameter passing</b> for this homework.
 
 ## Solutions
 
