@@ -1,5 +1,10 @@
 #!/bin/bash
 
+# This helper script is authored and created by John Yves Baltazar,
+# made with the assistance of the famous AI tool ChatGPT,
+# just to make navigation of peer tutor materials easier for you.
+
+
 # Flag to track if the script has already run
 script_run=false
 

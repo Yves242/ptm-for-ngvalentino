@@ -6,3 +6,20 @@ Welcome to the `Session Codes` directory! This space is dedicated to organizing 
 Recursion, Pointers and Parameter Passing
 - **[Session 1](https://github.com/Yves242/ptm-for-ngvalentino/tree/main/codes/Session%201%3A%20Recursion%2C%20Pointers%20and%20Parameter%20Passing) (March 4, 2024): Recursion, Pointers and Parameter Passing** 
 
+## Running Instructions
+
+To execute the C files discussed in this session, follow these steps:
+
+1. Navigate to the session folder using the command line.
+
+```
+cd <session_folder>
+```
+
+1. Run the `run.sh` script.
+
+```
+./run.sh
+```
+
+This script will present a menu displaying all the available C files in the folder. Choose the desired file, and the script will compile and run it for you.
